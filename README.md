@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toby-ece
 - 👀 I’m interested in Anime, Games, & Technology
 - 🌱 I’m currently learning C#, GitHub, Linux, and Ubuntu
-- ⚡ Fun fact: Currently studying for the ECE Board Exam
+- ⚡ Fun fact: A recent Licensed Electronics Engineer and Technician
 
 
 <!---
